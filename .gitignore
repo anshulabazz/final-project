@@ -1,0 +1,6 @@
+
+.idea/*
+*/pyo
+*/pyc
+migrations/*
+seeting.py
